@@ -1,2 +1,10 @@
+const num1 = 31
+const num2 = 2
 
-// Write your code here
+const multiply = num1 * num2
+
+const random = Math.random()
+
+const mod = 16 % 12
+
+const max = Math.max(1,3,5,7,9,20)
